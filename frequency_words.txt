@@ -12,7 +12,6 @@ HarmonyOS
 京东
 刘强东
 
-
 马斯克
 特斯拉
 
@@ -27,17 +26,4 @@ AMD
 
 谷歌
 google
-gemini
-deepmind
-
-chatgpt
-openai
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
 
